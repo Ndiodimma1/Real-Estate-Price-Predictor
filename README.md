@@ -38,7 +38,3 @@ The dataset used in this project is the **Melbourne Housing Dataset**, containin
 - **Scikit-Learn** – Machine Learning  
 
 
-## 🔗 How to Run the Project  
-1️⃣ **Clone this repository**  
-```bash
-git clone https://github.com/your-username/Melbourne-Housing-ML.git
