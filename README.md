@@ -37,17 +37,6 @@ The dataset used in this project is the **Melbourne Housing Dataset**, containin
 - **Matplotlib & Seaborn** – Data visualization  
 - **Scikit-Learn** – Machine Learning  
 
----
-
-## 📌 Model Performance  
-The model was evaluated using **Mean Absolute Error (MAE)**, which measures the average prediction error.  
-
-📊 **Baseline Model MAE:** *$X,XXX*  
-📊 **Improved Model MAE (with YearBuilt):** *$X,XXX*  
-
-✅ The model performed **better after adding `YearBuilt`** as a feature! 🚀  
-
----
 
 ## 🔗 How to Run the Project  
 1️⃣ **Clone this repository**  
